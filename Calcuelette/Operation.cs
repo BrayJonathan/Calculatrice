@@ -11,6 +11,7 @@ namespace Calcuelette
     {
         public double Addition(double number1, double number2)
         {
+            //ajout commentaire test push modif
             return number1 + number2;
         }
 
