@@ -17,6 +17,7 @@ namespace Calcuelette
 
         public double Substraction(double number1, double number2)
         {
+            //ajout commentaire de la part de Amine lol
             return number1 - number2;
         }
 
