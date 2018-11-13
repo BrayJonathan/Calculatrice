@@ -8,6 +8,12 @@ namespace Calcuelette
 {
     public static class StringExtension
     {
+        /// <summary>
+        /// Split and keep 
+        /// </summary>
+        /// <param name="s"> </param>
+        /// <param name="delims"> </param>
+        /// <returns></returns>
         public static List<string> SplitAndKeepForPlusAndMinus(this string s, char[] delims)
         {
             List<string> results = new List<string>();
